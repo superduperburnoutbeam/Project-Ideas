@@ -1,0 +1,34 @@
+*********************************************************************
+Hello giiiiiirl
+
+Let's get down to brass tacks
+I really need a list of things to make and its good to put stuff here
+Having an internet list makes it easier to figure shit out
+
+Anyways
+Here we go :] !!!
+*********************************************************************
+Small projects
+-> Galaga
+-> Z-move bracelet app
+-> Minesweeper
+-> Tetris
+-> Digital guitar
+-> Boids
+
+Medium projects
+-> CRT filter
+-> Reddit bot
+-> Notepad add-on to personal website
+-> Guitar song add-on to personal website
+
+Large projects
+-> Learning A.I.
+-> DNS attacker
+-> Home server
+-> Personal website
+
+Extra-large projects
+-> Snes game
+-> Environment simulator
+*********************************************************************
