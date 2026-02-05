@@ -15,20 +15,24 @@ Small projects
 -> Tetris
 -> Digital guitar
 -> Boids
+-> College list
 
 Medium projects
 -> CRT filter
 -> Reddit bot
 -> Notepad add-on to personal website
 -> Guitar song add-on to personal website
+-> Arson list map
 
 Large projects
 -> Learning A.I.
 -> DNS attacker
 -> Home server
 -> Personal website
+-> Global biome map
 
 Extra-large projects
 -> Snes game
 -> Environment simulator
+-> Video game porter
 *********************************************************************
