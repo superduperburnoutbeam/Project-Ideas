@@ -30,6 +30,7 @@ Large projects
 -> Home server
 -> Personal website
 -> Global biome map
+-> Remote access pc and projects
 
 Extra-large projects
 -> Snes game
